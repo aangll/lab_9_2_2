@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Student\ri\matskula\lab9\lab_9_2_2\lab_9_2_2\Source.cpp(50,11): warning C4101: 'physicsGrades': unreferenced local variable
+C:\Student\ri\matskula\lab9\lab_9_2_2\lab_9_2_2\Source.cpp(54,11): warning C4101: 'pedagogGrades': unreferenced local variable
+C:\Student\ri\matskula\lab9\lab_9_2_2\lab_9_2_2\Source.cpp(46,6): warning C4101: 'ThirdGrade': unreferenced local variable
+C:\Student\ri\matskula\lab9\lab_9_2_2\lab_9_2_2\Source.cpp(52,11): warning C4101: 'programGrades': unreferenced local variable
+C:\Student\ri\matskula\lab9\lab_9_2_2\lab_9_2_2\Source.cpp(53,11): warning C4101: 'methodGrades': unreferenced local variable
+C:\Student\ri\matskula\lab9\lab_9_2_2\lab_9_2_2\Source.cpp(51,11): warning C4101: 'mathsGrades': unreferenced local variable
+C:\Student\ri\matskula\lab9\lab_9_2_2\lab_9_2_2\Source.cpp(358): warning C4715: 'IndexSort': not all control paths return a value
+  lab_9_2_2.vcxproj -> C:\Student\ri\matskula\lab9\lab_9_2_2\x64\Debug\lab_9_2_2.exe
